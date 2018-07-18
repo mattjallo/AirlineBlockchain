@@ -1,0 +1,12 @@
+[#2 (F:130.025 L:-25 E:1) 16/04/2018 17:38:58.830 --------------------------------
+Mode : 2 Label : 40 Id : F Ack : 5
+Aircraft reg: N200UU Flight id: FLID 
+No:     
+FLT 0465 SAN TO PHX       16APR/1738Z
+MSG NBR-N/A                            
+POSN-N/A                               
+ARM-2522230D                           
+PASSENGER SEAT TRAY TABLE DIFFICULT TO 
+STOW/REQUIRES    
+ETB
+
